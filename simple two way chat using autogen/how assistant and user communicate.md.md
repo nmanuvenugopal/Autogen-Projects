@@ -1,3 +1,6 @@
+# This is copied from the terminal screen after running Autogen
+
+
 user (to Assistant):
 
 Plot a chart of META and TESLA stock price change
